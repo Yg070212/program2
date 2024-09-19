@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{C86F916B-69CC-4FE6-993F-FD95411BB307}|Program.vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\program2\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C86F916B-69CC-4FE6-993F-FD95411BB307}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7F7835-0159-47B3-8328-660332561069}|..\\Class3th (Maze Game)\\Class3th (Maze Game).vcxproj|C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\program2\\Class3th (Maze Game)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +27,23 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\program2\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-10T11:06:07.893Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\program2\\Class3th (Maze Game)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Maze Game)\\Source.c",
+              "ToolTip": "C:\\Users\\\uC591\uD604\uADDC\\Desktop\\\uAC9C\uD504\\Github\\program2\\Class3th (Maze Game)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Maze Game)\\Source.c",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-19T12:41:55.955Z",
               "EditorCaption": ""
             }
           ]
